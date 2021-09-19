@@ -1,0 +1,7 @@
+D:\Users\alike\source\repos\bicimselodevi\bicimselodevi\bin\Debug\bicimselodevi.exe.config
+D:\Users\alike\source\repos\bicimselodevi\bicimselodevi\bin\Debug\bicimselodevi.exe
+D:\Users\alike\source\repos\bicimselodevi\bicimselodevi\bin\Debug\bicimselodevi.pdb
+D:\Users\alike\source\repos\bicimselodevi\bicimselodevi\obj\Debug\bicimselodevi.csproj.CoreCompileInputs.cache
+D:\Users\alike\source\repos\bicimselodevi\bicimselodevi\obj\Debug\bicimselodevi.exe
+D:\Users\alike\source\repos\bicimselodevi\bicimselodevi\obj\Debug\bicimselodevi.pdb
+D:\Users\alike\source\repos\bicimselodevi\bicimselodevi\obj\Debug\bicimselodevi.csprojAssemblyReference.cache
